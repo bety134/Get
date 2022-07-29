@@ -1,0 +1,56 @@
+*{
+  margin:0;
+  padding: 0;
+  
+}
+
+.card-header{
+  color: rgb(169, 59, 233);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight:bold;
+  font-size: x-large;
+}
+
+  
+h3{
+  color: rgb(252, 252, 253);
+  padding-left:150px;
+  justify-content: center;
+  text-align: center;
+
+}
+
+Label{
+  color: rgb(34, 10, 130);
+  font-size: large;
+  font-weight: 80px;
+  padding: 10px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+input{
+  width: 500px;
+  height: 30px;
+}
+
+textarea {
+  width: 500px;
+  color: blue;
+  
+}
+
+
+.registration-datos__success{
+  font-size: 30px;
+    color: rgb(216, 216, 232);
+    background-color: blue;
+    border-radius: 0.25em;
+}
+
+.name{
+  color: rgb(244, 247, 247);
+}
+
+.letra{
+  color: rgb(244, 247, 247);
+}
